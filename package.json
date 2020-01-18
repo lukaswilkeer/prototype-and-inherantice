@@ -1,0 +1,18 @@
+{
+  "name": "prototype-and-inheritance",
+  "version": "1.0.0",
+  "description": "A prototype and inherantice example for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "oop"
+  ],
+  "author": "@lukaswilkeer",
+  "license": "MIT",
+  "devDependencies": {
+    "faker": "^4.1.0"
+  }
+}
